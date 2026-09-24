@@ -1,0 +1,99 @@
+Facebook-Clone-Tailwind/
+  demo/
+    tailwindcss-facebook-main/
+      .gitattributes
+      banner-2.png
+      images/
+        avt-2.jpg
+        avt-3.jpg
+        avt-4.jpg
+        avt-5.jpg
+        avt-6.png
+        avt-7.jpg
+        avt.jpg
+        fb-logo-mb.png
+        fb-logo.png
+        friends.png
+        group-img-1.jpg
+        group-img-2.jpg
+        group-img-3.jpg
+        group-img-4.jpg
+        group.png
+        memory.png
+        page.png
+        post-1.jpg
+        post-2 (1).jpg
+        post-2 (2).jpg
+        post-2 (3).jpg
+        post-2 (4).jpg
+        post-3 (1).jpg
+        post-3 (2).jpg
+        post-3 (3).jpg
+        post-3 (4).jpg
+        post.png
+        profile.jpg
+        story-1.jpg
+        story-2.jpg
+        story-3.jpg
+        story-4.jpg
+        story.jpg
+        tuat.jpg
+      index.html
+      README.md
+      static/
+        app.js
+      tailwind/
+        tailwind.config.js
+        tailwind.css
+        tailwind.custom.css
+  index.html
+  original/
+    tailwindcss-facebook-main/
+      tailwindcss-facebook-main/
+        .gitattributes
+        banner-2.png
+        images/
+          avt-2.jpg
+          avt-3.jpg
+          avt-4.jpg
+          avt-5.jpg
+          avt-6.png
+          avt-7.jpg
+          avt.jpg
+          fb-logo-mb.png
+          fb-logo.png
+          friends.png
+          group-img-1.jpg
+          group-img-2.jpg
+          group-img-3.jpg
+          group-img-4.jpg
+          group.png
+          memory.png
+          page.png
+          post-1.jpg
+          post-2 (1).jpg
+          post-2 (2).jpg
+          post-2 (3).jpg
+          post-2 (4).jpg
+          post-3 (1).jpg
+          post-3 (2).jpg
+          post-3 (3).jpg
+          post-3 (4).jpg
+          post.png
+          profile.jpg
+          story-1.jpg
+          story-2.jpg
+          story-3.jpg
+          story-4.jpg
+          story.jpg
+          tuat.jpg
+        index.html
+        README.md
+        static/
+          app.js
+        tailwind/
+          tailwind.config.js
+          tailwind.css
+          tailwind.custom.css
+  PROVENANCE_LICENSE.txt
+  README.md
